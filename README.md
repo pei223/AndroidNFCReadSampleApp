@@ -1,0 +1,2 @@
+# AndroidNFCReadSampleApp
+Android javaでRFCを読み込むサンプルアプリ
